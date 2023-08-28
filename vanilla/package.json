@@ -1,0 +1,23 @@
+{
+  "name": "ziptunes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhanng19/ziptunes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhanng19/ziptunes/issues"
+  },
+  "homepage": "https://github.com/nhanng19/ziptunes#readme",
+  "devDependencies": {
+    "electron": "^25.3.0",
+    "electron-packager": "^17.1.1"
+  }
+}

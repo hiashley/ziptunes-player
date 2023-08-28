@@ -1,0 +1,23 @@
+@mixin phone
+  @media only screen and (max-width: 767px)
+    @content
+
+@mixin tablet
+  @media only screen and (min-width : 768px) and (max-width: 991px)
+    @content
+
+@mixin tablet-ls
+  @media only screen and (min-width : 992px) and (max-width: 1100px)
+    @content
+
+@mixin desktop
+  @media only screen and (min-width : 1100px) and (max-width: 1500px)
+    @content
+
+@mixin desktop-sm
+  @media only screen and (min-width : 1500px) and (max-width: 1824px)
+    @content
+
+@mixin desktop-ls
+  @media only screen and (min-width : 1824px)
+    @content

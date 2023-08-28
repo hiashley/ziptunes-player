@@ -1,4 +1,4 @@
-const API_KEY: string = "BryanDevApiKey0515";
+const API_KEY: string = "64MvqqPii4fLLgdt";
 const headers = {
   headers: new Headers({
     "X-Auth": `${API_KEY}`,

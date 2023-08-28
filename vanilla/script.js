@@ -5,7 +5,7 @@ const songPlaying = document.querySelector("#songPlaying");
 const playlistDescription = document.querySelector(".playlist-description");
 const shuffleButton = document.getElementById("shuffleButton");
 
-const API_KEY = "BryanDevApiKey0515";
+const API_KEY = "64MvqqPii4fLLgdt";
 let songList = [];
 let currentSongIndex = 0;
 const headers = {

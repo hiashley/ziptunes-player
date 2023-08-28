@@ -43,7 +43,7 @@ const SinglePlaylist = () => {
       }
     };
     fetchSongHandler();
-  });
+  }, []);
   return (
     <>
     {loading && <LoadingSpinner />}

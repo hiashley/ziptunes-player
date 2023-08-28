@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ziptunes/static/css/main.fc763fe8.css",
-    "main.js": "/ziptunes/static/js/main.5b951995.js",
+    "main.js": "/ziptunes/static/js/main.6ab2a680.js",
     "static/media/Zip_Tunes_text.svg": "/ziptunes/static/media/Zip_Tunes_text.e6fe26d9dc7eae870883105229b71c97.svg",
     "index.html": "/ziptunes/index.html",
     "main.fc763fe8.css.map": "/ziptunes/static/css/main.fc763fe8.css.map",
-    "main.5b951995.js.map": "/ziptunes/static/js/main.5b951995.js.map"
+    "main.6ab2a680.js.map": "/ziptunes/static/js/main.6ab2a680.js.map"
   },
   "entrypoints": [
     "static/css/main.fc763fe8.css",
-    "static/js/main.5b951995.js"
+    "static/js/main.6ab2a680.js"
   ]
 }

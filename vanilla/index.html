@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZipTunes</title>
+    <link rel="stylesheet" href="./vanilla/styles.css">
+    <link rel="icon" href="./vanilla/favicon.ico" type="image/x-icon">
+    <link
+        href="https://fonts.googleapis.com/css?family=Epilogue:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap"
+        rel="stylesheet">
+</head>
+<body>
+     <div id="windowFrame"></div>
+    <div class="container">
+        <div class="side-nav">
+            <div class="navbar">
+                 <img src="./vanilla/Zip_Tunes_text.svg" alt="">
+                <input type="text" id="searchBar" placeholder="Search for a song">
+            </div>
+            <h1>Search by playlist:</h1>
+            <div id="playList"></div>
+        </div>
+        <div class="content">
+            <div class="content__wrapper">            
+            <div class="playlist-description"></div>
+            <div id="songs"></div></div>
+        </div>
+    </div>
+    <div class="audio-player"> <audio id="audioPlayer" src="" controls></audio>
+        <div class="song-playing">
+            <p id="songPlaying"></p>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script src="./vanilla/script.js"></script>
+    <script src="./vanilla/index.js"></script>
+</body>
+
+</html>

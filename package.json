@@ -1,7 +1,7 @@
 {
   "name": "ziptunes",
   "version": "0.1.0",
-  "homepage": "https://nhanng19.github.io/ziptunes",
+  "homepage": "https://hiashley.github.io/ziptunes-player/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
